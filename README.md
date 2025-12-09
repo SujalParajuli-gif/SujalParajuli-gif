@@ -122,27 +122,7 @@ Have a look around and feel free to connect 👇
 
 ---
 
-<!-- ====== STATS (centered) ====== -->
-# 📊 GitHub Stats
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SujalParajuli-gif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=SujalParajuli-gif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=SujalParajuli-gif&icon=1&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
----
 
 ## 🔎 Featured Projects
 
@@ -234,9 +214,7 @@ Have a look around and feel free to connect 👇
 ---
 
 ## 🚀 What I’m focusing on (now)
-- Remix forms with **server-side validation** + accessible errors
-- Reusable UI components in **TypeScript**
-- Clean data access layers (Java/JSP + MySQL)
+- Working as a Shopify intern
 
 ---
 
